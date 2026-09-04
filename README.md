@@ -115,6 +115,7 @@ Currently solving problems in:
 | [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -131,6 +132,7 @@ Currently solving problems in:
 | [0001-two-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Currently solving problems in:
 | ------- |
 | [0015-3sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
