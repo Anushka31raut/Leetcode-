@@ -117,6 +117,7 @@ Currently solving problems in:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -136,6 +137,7 @@ Currently solving problems in:
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -174,10 +177,12 @@ Currently solving problems in:
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -186,6 +191,7 @@ Currently solving problems in:
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -195,6 +201,7 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -239,4 +246,8 @@ Currently solving problems in:
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
