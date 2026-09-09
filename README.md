@@ -113,6 +113,7 @@ Currently solving problems in:
 | [0001-two-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -135,6 +136,7 @@ Currently solving problems in:
 | ------- |
 | [0001-two-sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -252,4 +254,8 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
