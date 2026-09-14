@@ -115,6 +115,7 @@ Currently solving problems in:
 | [0015-3sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -151,6 +152,7 @@ Currently solving problems in:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -163,6 +165,7 @@ Currently solving problems in:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -273,4 +276,12 @@ Currently solving problems in:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anushka31raut/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
